@@ -59,10 +59,10 @@ This project focuses on analyzing customer sentiment from Amazon Alexa product r
 
 ---
 
-## 📎 Notebook Link
+##  Notebook Link
 https://github.com/Rahul3mukhe/ML-Projects/blob/main/Amazon_Alexa_Review_Using_NLP.ipynb
 
 ---
 
-## 📌 Notes
+## Notes
 All performance metrics mentioned are taken directly from the notebook output without any external estimation.
